@@ -1,0 +1,13 @@
+name: floating_notification_demo
+description: Notification flottante en haut d'écran (exemple).
+publish_to: "none"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
